@@ -1,16 +1,16 @@
 <mjml>
 
   <mj-body background-color="#ffffff">
-  
+
     <!-- Logos Header -->
     <mj-section>
       <mj-column>
 
-        <mj-image width="150px" src="https://media.licdn.com/dms/image/v2/D4E0BAQEK5MyaTD5xIA/company-logo_200_200/company-logo_200_200/0/1734699301353/digital_preservation_southampton_logo?e=1755734400&v=beta&t=v2-W6xLg-REwlvpYagMAbSatgaqNCnhQByoGDan0Nx0"></mj-image>
-        <mj-image width="200px" src="https://upload.wikimedia.org/wikipedia/en/3/32/University_of_Southampton_Logo.png"></mj-image>
+        <mj-image width="200px" src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/dpslogo.png?raw=true"></mj-image>
+        <mj-image width="200px" src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/sotonlogo.png?raw=true"></mj-image>
         <mj-divider border-color="#005C84"></mj-divider>
 
-        <mj-text font-weight= "bold" font-size="20px" color="#005C84" font-family="Roboto">Greetings from Digital Preservation Southampton</mj-text>
+        <mj-text font-weight="bold" font-size="20px" color="#005C84" font-family="Roboto">Greetings from Digital Preservation Southampton</mj-text>
 
       </mj-column>
     </mj-section>
@@ -18,7 +18,7 @@
     <!-- Welcome -->
     <mj-section padding="0px">
       <mj-column>
-        <mj-text font-family="Roboto" align= left>
+        <mj-text font-family="Roboto" align=left>
           Thank you for signing up for our mailing list. We are very excited to welcome you to our community. This will be a platform for staying connected with DPS. We will be communicating regular updates on our events and workshops, news about our operations, and the occasional surprise!
         </mj-text>
       </mj-column>
@@ -27,7 +27,7 @@
     <!-- Welcome Image -->
     <mj-section>
       <mj-column>
-        <mj-image src="https://media.licdn.com/dms/image/v2/D4E3DAQE93M_UGiZ3jg/image-scale_191_1128/image-scale_191_1128/0/1734698676076/digital_preservation_southampton_cover?e=1751036400&v=beta&t=arDY3tXJibYndLcP0fKU3-FKuIDBTI026e6gve9isJQ" alt="Two people studying" width="593px" />
+        <mj-image src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/welcomeimage.jpg?raw=true" alt="Two people studying" width="593px" />
       </mj-column>
     </mj-section>
 
@@ -42,12 +42,12 @@
           Don't forget to sign up for our upcoming <em>Mastering Metadata for Digital Preservation</em> online workshop.
           This workshop will introduce participants to tools and concepts to clean and wrangle messy metadata to prepare
           for ingest into a repository system and to ensure the long-term preservation of their assets.
-          <br/><br/>
-          <strong>July 4, 2025</strong><br/>
-          12pm-4:30pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250704T110000&p1=136">See in your timezone</a>)<br/>
-          Location: Online<br/>
+          <br /><br />
+          <strong>July 4, 2025</strong><br />
+          12pm-4:30pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250704T110000&p1=136">See in your timezone</a>)<br />
+          Location: Online<br />
           <a href="https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/mastering-metadata-for-digital-preservation-online-edition">Register Here</a>
-          <br/><br/>
+          <br /><br />
           <strong>Note on Fees:</strong> we are currently offering discounts for participants from ODA countries. If our workshop fees pose a difficulty for your organisation, and our current discount criteria do not adhere to your needs, please reach out to us, and we will evaluate your situation.
         </mj-text>
 
@@ -55,11 +55,11 @@
         <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">ArkFest 2025 Talk</mj-text>
         <mj-text font-family="Roboto">
           Two members of the DPS Team, <strong>Dr. James Baker</strong> and <strong>Laurisa Sastoque</strong> will be delivering a talk at the upcoming <a href="https://arkivum.foleon.com/arkfest/arkfest2025/">ArkFest 2025</a>, an event dedicated to bringing together experts in data management and digital preservation good practice.
-          <br/><br/>
+          <br /><br />
           Our talk will be titled <strong>"Building a Digital Preservation Advisory Unit: Beginnings, Lessons, and Use Cases"</strong> and we will be providing reflections on our journey towards launching DPS, and lessons and insights from our early partnerships.
-          <br/><br/>
-          <strong>July 15, 2025</strong><br/>
-          10-11am BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250715T090000&p1=300">See in your timezone</a>)<br/>
+          <br /><br />
+          <strong>July 15, 2025</strong><br />
+          10-11am BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250715T090000&p1=300">See in your timezone</a>)<br />
           <a href="https://arkivum.foleon.com/arkfest/arkfest2025/register">Register Here</a>
         </mj-text>
 
@@ -67,9 +67,9 @@
         <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Summer "Get to Know Us" Session</mj-text>
         <mj-text font-family="Roboto">
           You heard it here first! We are holding another edition of our popular "Get to Know Us" Session and Q&A this summer. Some of you may have already attended one, but this one will include a few additional details. Particularly, we will be sharing more about our training offer, our planned curricula, and an <strong>exclusive bite-sized learning session</strong>, where you will get a taste of our pedagogical strategy.
-          <br/><br/>
-          <strong>July 24, 2025</strong><br/>
-          2-3pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250724T130000&p1=300">See in your timezone</a>)<br/>
+          <br /><br />
+          <strong>July 24, 2025</strong><br />
+          2-3pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250724T130000&p1=300">See in your timezone</a>)<br />
           <a href="https://events.teams.microsoft.com/event/05ba5db4-101e-4284-8c81-77f556573f5c@4a5378f9-29f4-4d3e-be89-669d03ada9d8">Register Here</a>
         </mj-text>
 
@@ -84,10 +84,10 @@
       <mj-column>
         <mj-text font-size="12px" color="#777777" align="center">
           You are receiving this email because you signed up for updates from Digital Preservation Southampton. To unsubscribe, please reply to this email with your request.
-          <br/><br/>
+          <br /><br />
           <a href="https://www.linkedin.com/company/digital-preservation-southampton/">LinkedIn</a> |
           <a href="https://bsky.app/profile/digipresoton.bsky.social">Bluesky</a> |
-          <a href="https://digipres.club/@digitalpreservationsouthampton">digipres.club</a><br/><br/>
+          <a href="https://digipres.club/@digitalpreservationsouthampton">digipres.club</a><br /><br />
 
           <a href="https://www.southampton.ac.uk/research/institutes-centres/digital-preservation-southampton">Visit our Website</a> |
           <a href="mailto:digitalpreservation@soton.ac.uk">Email Us</a>
