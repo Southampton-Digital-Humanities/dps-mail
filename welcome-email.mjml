@@ -39,7 +39,7 @@
         <!-- Event 1 -->
         <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Mastering Metadata Workshop</mj-text>
         <mj-text font-family="Roboto">
-          Don't forget to sign up for our upcoming <em>Mastering Metadata for Digital Preservation</em> online workshop.
+          Registrations are closing soon for our upcoming <em>Mastering Metadata for Digital Preservation</em> online workshop.
           This workshop will introduce participants to tools and concepts to clean and wrangle messy metadata to prepare
           for ingest into a repository system and to ensure the long-term preservation of their assets.
           <br /><br />
@@ -82,7 +82,7 @@
     <!-- Footer -->
     <mj-section background-color="#E1E8EC" padding="20px">
       <mj-column>
-        <mj-text font-size="12px" color="#777777" align="center">
+        <mj-text font-family="Roboto" font-size="12px" color="#777777" align="center">
           You are receiving this email because you signed up for updates from Digital Preservation Southampton. To unsubscribe, please reply to this email with your request.
           <br /><br />
           <a href="https://www.linkedin.com/company/digital-preservation-southampton/">LinkedIn</a> |
