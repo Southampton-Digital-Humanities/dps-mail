@@ -26,7 +26,7 @@
     <!-- Welcome Image -->
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/welcomeimage.jpg?raw=true" alt="Two people studying" width="593px" />
+        <mj-image src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/welcomeimage-july.png?raw=true" alt="Two people studying" width="593px" />
       </mj-column>
     </mj-section>
 
@@ -35,37 +35,60 @@
       <mj-column>
         <mj-text font-size="20px" font-family="Roboto" font-weight="bold">Upcoming Events</mj-text>
 
-        <!-- Event 1 -->
-        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Mastering Metadata Workshop</mj-text>
+        <!-- Workshop 1 -->
+        
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">September Mastering Metadata Workshop</mj-text>
         <mj-text font-family="Roboto">
-          Registrations are closing soon for our upcoming <em>Mastering Metadata for Digital Preservation</em> online workshop.
-          This workshop will introduce participants to tools and concepts to clean and wrangle messy metadata to prepare
-          for ingest into a repository system and to ensure the long-term preservation of their assets.
+          Registrations for the September edition of our popular <em>Mastering Metadata for Digital Preservation</em> online workshop are officially open. Do not miss your chance! 
           <br /><br />
-          <strong>July 4, 2025</strong><br />
-          12pm-4:30pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250704T110000&p1=136">See in your timezone</a>)<br />
+          <strong>September 5, 2025</strong><br />
+          12pm-4:30pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250905T110000&p1=136">See in your timezone</a>)<br />
           Location: Online<br />
-          <a href="https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/mastering-metadata-for-digital-preservation-online-edition">Register Here</a>
+          <a href="https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/mastering-metadata-for-digital-preservation">Register Here</a>
           <br /><br />
-          <strong>Note on Fees:</strong> we are currently offering discounts for participants from ODA countries. If our workshop fees pose a difficulty for your organisation, and our current discount criteria do not adhere to your needs, please reach out to us, and we will evaluate your situation.
+          <strong>Are there discounted places available?</strong> 
+          <br /><br />
+          Yes, we are able to evaluate cases for discounted places, particularly for participants from Official Development Assistance (ODA) countries. Please email us describing your situation and we will offer you a discounted ticket. 
         </mj-text>
-
-        <!-- Event 2 -->
-        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">ArkFest 2025 Talk</mj-text>
+        <mj-image src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/promosep.png?raw=true" width="593px" />
+        
+        
+        <!-- Upcoming Workshops Table -->
+        <mj-text font-size="16px" font-family="Roboto" font-weight="bold">Other Upcoming Workshops</mj-text>
         <mj-text font-family="Roboto">
-          Two members of the DPS Team, <strong>Dr. James Baker</strong> and <strong>Laurisa Sastoque</strong> will be delivering a talk at the upcoming <a href="https://arkivum.foleon.com/arkfest/arkfest2025/">ArkFest 2025</a>, an event dedicated to bringing together experts in data management and digital preservation good practice.
-          <br /><br />
-          Our talk will be titled <strong>"Building a Digital Preservation Advisory Unit: Beginnings, Lessons, and Use Cases"</strong> and we will be providing reflections on our journey towards launching DPS, and lessons and insights from our early partnerships.
-          <br /><br />
-          <strong>July 15, 2025</strong><br />
-          10-11am BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250715T090000&p1=300">See in your timezone</a>)<br />
-          <a href="https://arkivum.foleon.com/arkfest/arkfest2025/register">Register Here</a>
+        Get excited! Below, you will find our current plan for upcoming workshops for the remainder of the year. We will promptly notify you once registrations open and dates are solidified. If any of these offerings particularly resonate with you, or you want to know more about them, please do reach out to us, and we will make sure to take your scheduling and content preferences into consideration.
         </mj-text>
+        <mj-table font-family="Roboto" font-size="14px" cellpadding="10px" cellspacing="0" width="100%">
+          <tr style="background-color:#d9dce1; font-weight:bold;">
+            <th align="left">Workshop</th>
+            <th align="left">Date</th>
+            <th align="left" style="white-space: nowrap;">Format</th>
+          </tr>
+          <tr>
+            <td>Mastering Metadata for <br />
+            Digital Preservation</td>
+            <td>September 5, 2025</td>
+            <td>Online</td>
+          </tr>
+          <tr style="background-color:#f0f0f0;">
+            <td>Foundations of Digital Preservation:<br />
+            Integrity Checking, Format Migration,<br />
+            and Workflows</td>
+            <td>TBA October 2025</td>
+            <td>Online</td>
+          </tr>
+          <tr>
+            <td>Learning to Work with Legacy Media and <br />
+            Forensic Imaging</td>
+            <td>TBA November 2025</td>
+            <td>In-Person</td>
+          </tr>
+        </mj-table>
 
         <!-- Event 3 -->
-        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Summer "Get to Know Us" Session</mj-text>
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Reminder: Summer "Get to Know Us" Session</mj-text>
         <mj-text font-family="Roboto">
-          You heard it here first! We are holding another edition of our popular "Get to Know Us" Session and Q&A this summer. Some of you may have already attended one, but this one will include a few additional details. Particularly, we will be sharing more about our training offer, our planned curricula, and an <strong>exclusive bite-sized learning session</strong>, where you will get a taste of our pedagogical strategy.
+          There is still time to register for our Summer "Get to Know Us Session" and Q&A. We've got an insightful teaching demo prepared for all attendees, so you can learn more about our pedagogical approach. Do not miss out on this free opportunity! 
           <br /><br />
           <strong>July 24, 2025</strong><br />
           2-3pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250724T130000&p1=300">See in your timezone</a>)<br />
@@ -73,6 +96,21 @@
         </mj-text>
 
         <mj-text font-weight="bold" font-size="18px" font-family="Roboto" padding-top="16px">
+          <br /><br />
+          Key Highlights
+        </mj-text>
+
+        <!-- Highlight 1 -->
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">ArkFest 2025 Talk</mj-text>
+        <mj-text font-family="Roboto">
+          Our talk at <a href="https://arkivum.foleon.com/arkfest/arkfest2025/">ArkFest 2025</a> was a success! We shared insights about the history of DPS, the <a href="https://www.dpconline.org/blog/blog-james-baker-25">Critical Cataloguing for Digital Preservation</a> research project, and some lessons from our early partnerships.
+          <br /><br />
+          Did you miss our talk? You may register to watch a recording <a href="https://events.zoom.us/ev/AmLwazPhpiXZMec1E4IXfoYWe_BfFZWwpCejfHCSJwaiaTUgWFZB~AhAkraZnjGMwj1Pygvfp2heB1WhTj-xutAFoACEhCrCQMTlQzl9w8_2-jg?utm_campaign=13743496-ArkFest%202025&utm_content=338556803&utm_medium=social&utm_source=linkedin&hss_channel=lcp-2046766">at this link.</a>
+          <br /><br />
+        </mj-text>
+        <mj-image src="https://file-paa.zoom.us/D3QEaIe5RTG6ClP4jqUSKQ/Mi4zLqqcn9dU3aJbPCPtKpoYFsvXYXNXYf6FKmAEqSJxvxWJ/ArkFest%20Event%20cover%20page.png?attachType=preview&subType=1920x1920" width="593px" />
+        <mj-text font-weight="bold" font-size="18px" font-family="Roboto" padding-top="16px">
+        <br /><br />
           Keep an eye out for more updates soon!
         </mj-text>
       </mj-column>
