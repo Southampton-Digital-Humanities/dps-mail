@@ -1,0 +1,123 @@
+<mjml>
+
+  <mj-body background-color="#ffffff">
+
+    <!-- Logos Header -->
+    <mj-section>
+      <mj-column>
+
+        <mj-image width="200px" src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/dpslogo.png?raw=true"></mj-image>
+        <mj-image width="200px" src="https://github.com/Southampton-Digital-Humanities/dps-mail/blob/main/assets/sotonlogo.png?raw=true"></mj-image>
+        <mj-divider border-color="#005C84"></mj-divider>
+
+        <mj-text font-weight="bold" font-size="20px" color="#005C84" font-family="Roboto">Greetings from Digital Preservation Southampton</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <!-- Welcome -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-text font-family="Roboto" align=left>
+          We hope you are doing very well. Greetings to our new subscribers since our last message. The DPS mailing list is a space to hear about upcoming events, news, and stories from our team. As we leave the summer behind us, the DPS team is ready to take on a new academic year. We have got some exciting new training offers planned. Here are some of our latest news and events. 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Welcome Image -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.pexels.com/photos/331684/pexels-photo-331684.jpeg" alt="Photo of computer" width="593px" height="200px"/>
+      </mj-column>
+    </mj-section>
+
+    <!-- Upcoming Events -->
+    <mj-section padding="10px 20px">
+      <mj-column>
+        <mj-text font-size="20px" font-family="Roboto" font-weight="bold">Upcoming Workshop</mj-text>
+
+        <!-- Workshop 1 -->
+        
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Foundations of Digital Preservation: Integrity Checking, Format Migration, and Workflows (Online)</mj-text>
+        <mj-text font-family="Roboto">
+          Following the success of our Mastering Metadata workshops, we are launching a new exciting workshop. This is your digital preservation essentials course; a hands-on, online workshop designed to introduce the core concepts, tools, and workflows related to the preservation of digital assets. Learn to identify and migrate file formats, create safe data transfers, and ensure long-term access through integrity checks. Through this workshop, you will earn experience with key open-source and industry-standard software such as DROID, Siegfried, Teracopy, and standards such as BagIt. Registrations are open. Do not miss your chance! 
+          <br /><br />
+          <strong>October 17, 2025</strong><br />
+          12pm-4:30pm BST (<a href="https://www.timeanddate.com/worldclock/converter.html?iso=20251017T114500&p1=136">See in your timezone</a>)<br />
+          Location: Online<br />
+          <a href="https://store.southampton.ac.uk/short-courses/faculty-of-arts-and-humanities/digital-preservation-advisory-unit/foundations-of-digital-preservation-integrity-checking-format-migration-and-workflows-online">Register Here</a>
+          <br /><br />
+          <strong>Are there discounted places available?</strong> 
+          <br /><br />
+          Yes, we are able to evaluate cases for discounted places, particularly for participants from <a href="https://www.oecd.org/en/topics/oda-eligibility-and-conditions/dac-list-of-oda-recipients.html">Official Development Assistance (ODA)</a> countries. Please email us describing your situation and we will offer you a discounted ticket. 
+        </mj-text>
+        <mj-image src="https://media.licdn.com/dms/image/v2/D4D22AQGrrvWla6PSxw/feedshare-shrink_800/B4DZk0JzoMH0Ak-/0/1757516610880?e=1760572800&v=beta&t=TyiZ34GbU2N9Qy5VlV02uV4TGBxmxFykh8ZkW2TCIlA" width="593px" />
+        
+        
+        <!-- Upcoming Workshops Table -->
+        <mj-text font-size="16px" font-family="Roboto" font-weight="bold">Other Upcoming Workshops</mj-text>
+        <mj-text font-family="Roboto">
+        Below, you will find our current plan for upcoming workshops for the remainder of the year. We will promptly notify you once registrations open and dates are solidified. 
+        </mj-text>
+        <mj-table font-family="Roboto" font-size="14px" cellpadding="10px" cellspacing="0" width="100%">
+          <tr style="background-color:#d9dce1; font-weight:bold;">
+            <th align="left">Workshop</th>
+            <th align="left">Date</th>
+            <th align="left" style="white-space: nowrap;">Format</th>
+          </tr>
+          <tr>
+            <td>Learning to Work with Legacy Media and <br />
+            Forensic Imaging</td>
+            <td>TBA November 2025</td>
+            <td>In-Person</td>
+          </tr>
+        </mj-table>
+
+        <mj-text font-weight="bold" font-size="18px" font-family="Roboto" padding-top="16px">
+          <br /><br />
+          Key Highlights
+        </mj-text>
+
+        <!-- Highlight 1 -->
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">September Mastering Metadata was a Success!</mj-text>
+        <mj-text font-family="Roboto">
+          We want to extend a sincere thanks to everyone who came to our September Mastering Metadata workshop. We have received your requests for another edition of this workshop, as well as a continued advanced version. We will promptly notify you once these options become available. 
+          <br /><br />
+          If you are interested in hearing more about this past workshop, please do not hesitate to reach out to us at <a href="mailto:digitalpreservation@soton.ac.uk">digitalpreservation@soton.ac.uk</a>.
+          <br /><br />
+        </mj-text>
+
+        <!-- Highlight 2 -->
+        <mj-text font-family="Roboto" font-size="16px" font-weight="bold" padding-top="16px">Quick Poll Time</mj-text>
+        <mj-text font-family="Roboto">
+          We want to hear your input on our upcoming events and workshops. Please take a moment to answer this quick anonymous poll to let us know what you would like to see from us in these upcoming months. 
+          <br /><br />
+          <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2P0qQmQM54FNhrzgfW8iPclUNUxOMUQyN1hZMzhQVFNKMThPMEszVkFUWi4u">Complete the poll here</a>.
+          <br /><br />
+        </mj-text>
+
+        <mj-text font-weight="bold" font-size="18px" font-family="Roboto" padding-top="16px">
+        <br /><br />
+          Keep an eye out for more updates soon!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#E1E8EC" padding="20px">
+      <mj-column>
+        <mj-text font-family="Roboto" font-size="12px" color="#777777" align="center">
+          You are receiving this email because you signed up for updates from Digital Preservation Southampton. To unsubscribe, please reply to this email with your request.
+          <br /><br />
+          <a href="https://www.linkedin.com/company/digital-preservation-southampton/">LinkedIn</a> |
+          <a href="https://bsky.app/profile/digipresoton.bsky.social">Bluesky</a> |
+          <a href="https://digipres.club/@digitalpreservationsouthampton">digipres.club</a><br /><br />
+
+          <a href="https://www.southampton.ac.uk/research/institutes-centres/digital-preservation-southampton">Visit our Website</a> |
+          <a href="mailto:digitalpreservation@soton.ac.uk">Email Us</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
